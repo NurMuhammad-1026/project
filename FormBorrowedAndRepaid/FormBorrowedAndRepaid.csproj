@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DEACD10A-CCF4-41D2-AC0E-841BFAA09181}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FormBorrowedAndRepaid</RootNamespace>
+    <AssemblyName>FormBorrowedAndRepaid</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bee.MySQL">
+      <HintPath>..\..\projectStore\projectStore\bin\Debug\Bee.MySQL.dll</HintPath>
+    </Reference>
+    <Reference Include="BigInteger, Version=1.0.7.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BigInteger.1.0.7\lib\net20\BigInteger.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.6.1\lib\net462\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBorrowedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBorrowedForm.Designer.cs">
+      <DependentUpon>AddBorrowedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRasxod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRasxod.Designer.cs">
+      <DependentUpon>AddRasxod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRepaidForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRepaidForm.Designer.cs">
+      <DependentUpon>AddRepaidForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BigInteger.cs" />
+    <Compile Include="BorrowedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowedForm.Designer.cs">
+      <DependentUpon>BorrowedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeBorrowedDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeBorrowedDataForm.Designer.cs">
+      <DependentUpon>ChangeBorrowedDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangedRepaidDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangedRepaidDataForm.Designer.cs">
+      <DependentUpon>ChangedRepaidDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangedUserData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangedUserData.Designer.cs">
+      <DependentUpon>ChangedUserData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxItem.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ChangedDataLoad.cs" />
+    <Compile Include="Models\UserModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rasxod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rasxod.Designer.cs">
+      <DependentUpon>rasxod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepaidForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepaidForm.Designer.cs">
+      <DependentUpon>RepaidForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddBorrowedForm.resx">
+      <DependentUpon>AddBorrowedForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRasxod.resx">
+      <DependentUpon>AddRasxod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRepaidForm.resx">
+      <DependentUpon>AddRepaidForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowedForm.resx">
+      <DependentUpon>BorrowedForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeBorrowedDataForm.resx">
+      <DependentUpon>ChangeBorrowedDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangedRepaidDataForm.resx">
+      <DependentUpon>ChangedRepaidDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangedUserData.resx">
+      <DependentUpon>ChangedUserData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rasxod.resx">
+      <DependentUpon>rasxod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepaidForm.resx">
+      <DependentUpon>RepaidForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,284 @@
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\Bee.MySQL.dll
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\lenovo\Desktop\C#\Windows Forms Projects\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\Новая папка (2)\ув\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\Новая папка (3)\Новая папка\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\User\Desktop\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.SuggestedBindingRedirects.cache
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CopyComplete
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+E:\FormBorrowedAndRepaid_1\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\BigInteger.dll
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\BigInteger.dll
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\User\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\BigInteger.dll
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.dll
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.xml
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+E:\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe.config
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\FormBorrowedAndRepaid.pdb
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\BigInteger.dll
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddBorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddRepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.AddUser.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.BorrowedForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangeBorrowedDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedRepaidDataForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.ChangedUserData.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.MainForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Properties.Resources.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.rasxod.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.RepaidForm.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.Users.resources
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorr.3FBEA1BC.Up2Date
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.exe
+C:\Users\lenovo\Desktop\FormBorrowedAndRepaid\FormBorrowedAndRepaid\obj\Debug\FormBorrowedAndRepaid.pdb
